@@ -29,6 +29,7 @@ Use an image-capable model and a client that forwards tool images. The skill als
 
 ## Resources
 
+- [Skills.sh listing](https://skills.sh/jaywolters/rodloom-skills/rodloom)
 - [Rod Loom designer](https://rodloom.com/)
 - [Installation guide](https://rodloom.com/agents/install-skill.md)
 - [Hosted MCP guide](https://rodloom.com/agents/mcp.md)
