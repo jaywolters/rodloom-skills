@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "name": "Yellowfin paired fade",
+  "threadSize": "D",
+  "coverage": 0.25,
+  "diameter": 15,
+  "blank": "#263a40",
+  "texture": true,
+  "bands": [
+    {
+      "name": "101 Yellowfin",
+      "color": "#d8b43c",
+      "finish": "regular",
+      "brand": "ProWrap",
+      "line": "ColorFast",
+      "sku": "CFS-D-101",
+      "code": "101",
+      "catalog": true,
+      "wrap": "solid",
+      "turns": 12
+    },
+    {
+      "name": "101 Yellowfin",
+      "color": "#d8b43c",
+      "finish": "regular",
+      "brand": "ProWrap",
+      "line": "ColorFast",
+      "sku": "CFS-D-101",
+      "code": "101",
+      "catalog": true,
+      "wrap": "spiral",
+      "turns": 4,
+      "direction": 1,
+      "secondary": {
+        "name": "110 Banana Split",
+        "color": "#f4df78",
+        "finish": "regular",
+        "brand": "ProWrap",
+        "line": "ColorFast",
+        "sku": "CFS-D-110",
+        "code": "110",
+        "catalog": true
+      }
+    },
+    {
+      "name": "110 Banana Split",
+      "color": "#f4df78",
+      "finish": "regular",
+      "brand": "ProWrap",
+      "line": "ColorFast",
+      "sku": "CFS-D-110",
+      "code": "110",
+      "catalog": true,
+      "wrap": "solid",
+      "turns": 12
+    }
+  ]
+}
